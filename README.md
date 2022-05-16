@@ -5,4 +5,4 @@
 - CONSTITUTION 10
 - INTELLIGENCE 50
 
-[我的哔哩哔哩](https://space.bilibili.com/2832208/)
+[AI匠的哔哩哔哩](https://space.bilibili.com/2832208/)
