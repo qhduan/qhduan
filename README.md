@@ -17,9 +17,9 @@
 
 段清华的深度学习相关开发至少可以追溯到2015年，开始使用基于C++&CUDA的代码实现自动编码器[3]。
 
-段清华同时也擅长JavaScript/Node.js/React的开发，可以追溯到2015年就不依赖其他框架，自主实现过一个纯JavaScript 2D网页游戏的在线Demo开发，至今依然可以在主流桌面浏览器上运行DEMO [4]。
+段清华同时也擅长JavaScript/Node.js/React的开发，可以追溯到2015年就不依赖其他框架，自主实现过一个纯JavaScript 2D RPG网页游戏的在线Demo开发，至今依然可以在主流桌面浏览器上运行DEMO [4]。
 
-[1] https://github.com/qhduan/ConversationalRobotDesign/
-[2] https://github.com/qhduan/Seq2Seq_Chatbot_QA
-[3] https://github.com/qhduan/autoencoder
-[4] https://github.com/qhduan/RPG 在线DEMO：http://qhduan.github.io/RPG/
+- [1] https://github.com/qhduan/ConversationalRobotDesign/
+- [2] https://github.com/qhduan/Seq2Seq_Chatbot_QA
+- [3] https://github.com/qhduan/autoencoder
+- [4] https://github.com/qhduan/RPG 在线DEMO：http://qhduan.github.io/RPG/
