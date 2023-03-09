@@ -4,7 +4,7 @@
 
 [知未智能 kdf.info](https://kdf.info)
 
-知未智能KDF 联合创始人 & CTO，北京大学计算机学士，微软AI最具价值专家(AI MVP)，Google Machine Learning Developers Expert(GDE ML)
+知未智能KDF 联合创始人 & CTO，北京大学计算机学士，微软AI最具价值专家(AI MVP)[5]，Google Machine Learning Developers Expert(GDE ML)[6]
 
 段清华先生从工作以来一直从业于金融科技领域，同时具备充分的人工智能技术研发经验，在科技公司的经历中也积累了足够的项目架构与管理经验。
 
@@ -23,3 +23,5 @@
 - [2] https://github.com/qhduan/Seq2Seq_Chatbot_QA
 - [3] https://github.com/qhduan/autoencoder
 - [4] https://github.com/qhduan/RPG 在线DEMO：http://qhduan.github.io/RPG/
+- [5] https://mvp.microsoft.com/en-us/PublicProfile/5003664?fullName=Qinghua%20Duan
+- [6] https://developers.google.com/community/experts/directory/profile/profile-qinghua-duan
