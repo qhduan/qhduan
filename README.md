@@ -20,7 +20,7 @@
 段清华同时也擅长JavaScript/Node.js/React的开发，可以追溯到2015年就不依赖其他框架，自主实现过一个纯JavaScript 2D RPG网页游戏的在线Demo开发，至今依然可以在主流桌面浏览器上运行DEMO [^6]。
 
 [^1]: https://mvp.microsoft.com/en-us/PublicProfile/5003664?fullName=Qinghua%20Duan
-[^2]: https://developers.google.com/community/experts/directory/profile/profile-qinghua-duan
+[^2]: https://developers.google.com/profile/u/qhduan?hl=zh-cn
 [^3]: https://github.com/qhduan/ConversationalRobotDesign/
 [^4]: https://github.com/qhduan/Seq2Seq_Chatbot_QA
 [^5]: https://github.com/qhduan/autoencoder
